@@ -4,6 +4,7 @@ public class order {
 	private int quantity;
 	  
 	
+	
 	public order() {
 		type=null;
 		quantity=0;
